@@ -1,0 +1,21 @@
+.Frete{
+    position: relative;
+    width: 100%;
+    height: 40px;
+    background-color: #e9e6e6;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid #00000052;
+}
+
+.Caminhao{
+    margin-top: 10px;
+    width: 30px;
+    height: 20px;
+}
+
+.P_Frete{
+    font-size: 15px;
+    margin-left: 10px;
+    margin-top: 10px;
+}

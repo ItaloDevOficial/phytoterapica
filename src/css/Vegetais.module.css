@@ -1,0 +1,32 @@
+section{
+    position: relative;
+    width: 100%;
+    height: auto;
+
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.Info{
+    position: relative;
+    width: 100%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Vegetais{
+    position: relative;
+    width: 100%;
+    height: auto;
+    display: flex;
+}

@@ -1,0 +1,43 @@
+footer{
+    position: relative;
+    width: 100%;
+    height: 500px;
+    display: flex;
+    margin-top: 100px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.Sobre, .Suporte, .Cliente, .Pagamento{
+    position: relative;
+    width: 20%;
+    height: auto;
+}
+
+.Logoo{
+    width: 100%;
+
+}
+
+.h1_sobre, .h1_suporte, .h1_cliente, .h1_pagamento{
+    font-size: 15px;
+    text-align: start;
+    cursor: pointer;
+}
+
+.h1_pagamento{
+    margin-left: 20px;
+    
+}
+
+.p_s{
+    font-size: 10px;
+    text-align: start;
+    cursor: pointer;
+}
+
+.LoGo{
+    margin-left: 420px;
+    width: 550px;
+}

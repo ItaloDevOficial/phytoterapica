@@ -1,0 +1,38 @@
+.Visao{
+    position: relative;
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 1px solid #00000069;
+}
+
+.veg{
+    margin-left: 100px;
+}
+.veg, .free, .puro{
+    width: 30%;
+    display: flex;
+}
+
+.descri{
+    display: flex;
+    flex-direction: column;
+}
+
+.h1_veg, .h1_free, .h1_puro{
+    margin: 0;
+    font-size: 25px;
+    text-align: center;
+}
+
+.p_veg, .p_free, .p_puro{
+    margin: 0;
+    margin-left: 15px;
+}
+
+.iconnns{
+    width: 60px;
+    height: 60px;
+}
